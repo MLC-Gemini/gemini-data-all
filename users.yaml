@@ -1,0 +1,17 @@
+---
+# These permission levels refer to the overall user permissions provided in Jenkins
+# This uses Jenkins' Matrix Based Security
+
+ADMINISTER:
+  - id: P695950
+    name: Catherine Sherrin
+  - id: p785309
+    name: Ajay Vignesh
+  - id: p792494
+    name: Darcy Rollestone
+  - id: P751446
+    name: Robert Davis
+  - id: p785702
+    name: Suva Aich    
+  - id: P760906
+    name: Yogesh Sharma
